@@ -3,6 +3,11 @@ body {
     padding: 20px 0;
     margin: 0;
     text-align: center;
+    background-image: url("https://pics.filmaffinity.com/good_will_hunting-211312156-large.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-color: lightyellow;
 }
 
 span {
